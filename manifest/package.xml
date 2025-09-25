@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CGMS_App</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>CGMS_Complaint__c</members>
+        <members>CGMS_Citizen__c</members>
+        <members>CGMS_Department__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Layout</name>
+    </types>
+    <version>64.0</version>
+</Package>
