@@ -18,6 +18,8 @@
     <tabs>CGMS_Complaint__c</tabs>
     <tabs>CGMS_Citizen__c</tabs>
     <tabs>CGMS_Department__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>CGMS_App_UtilityBar</utilityBar>
 </CustomApplication>
