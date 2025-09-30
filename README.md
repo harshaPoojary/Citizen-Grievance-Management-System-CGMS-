@@ -6,5 +6,5 @@ Local government departments receive high volumes of citizen grievances (water s
 
 ## Final Project Documentation
 [Click here to view the complete PDF documentation.](/salesforce%20project-cgms_documentation.pdf)
-## 🎥 Project Demo & Final Presentation
-[Click here to view the **FINAL PROJECT DEMO/PRESENTATION** (Google Slides/PPTX).](https://docs.google.com/presentation/d/1AEBk-N4sfxsoU3_NOw9S1fTZG6gzX2JR/edit?usp=drive_link&ouid=116289513961972038576&rtpof=true&sd=true)
+## 🎥 Project Demo Video
+[Click here to watch the full demonstration video of the CGMS app.](https://drive.google.com/file/d/1auM3hJxdsCx5MQYHvHcckHa5gfT3fFub/view?usp=drive_link)
